@@ -10,8 +10,6 @@ description: This is an introductory landing page for the placement of IO in oth
 
 _Description:_ A _mission_ is _the_ [_primary_](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/base.md) __ [_goal_](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/goal.md) _which_ [_defines_](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/define.md) _a_ [_specific_](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/specific.md) __ [_project_](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/project.md) _or_ [_collective_](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/collective.md).  (Mission should be defined as a verb or action, in which the project either supports, develops or destroys an existing resource.)   (Mission may be perceived as a vision/ purpose / intent/goal.
 
-_Examples: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
-
 &#x20;                        _\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
 To provide templates, guidelines and standard operating procedures (or recipes) for _inclusively, methodically and scalably_ developing all types of _projects, collectives and networks_, including distributed computing networks.
@@ -101,6 +99,8 @@ Description: This section serves the purpose of \_\_\_\_\_\_.
 ### Project Policies
 
 _Description: This section should state or link any policy which determines how the project is governed or otherwise developed._
+
+&#x20;       _\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
 IO is currently a solo project, but will be developed as a cooperative according to any decision-making policies and other policies directly consented to by additional teammates.
 
