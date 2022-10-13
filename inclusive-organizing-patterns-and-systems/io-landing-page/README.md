@@ -12,6 +12,8 @@ _Description:_ A _mission_ is _the_ [_primary_](https://github.com/gcassel/Modul
 
 _Examples: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
+&#x20;                        _\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
+
 To provide templates, guidelines and standard operating procedures (or recipes) for _inclusively, methodically and scalably_ developing all types of _projects, collectives and networks_, including distributed computing networks.
 
 ### Storyline/ how it connects to nature&#x20;
