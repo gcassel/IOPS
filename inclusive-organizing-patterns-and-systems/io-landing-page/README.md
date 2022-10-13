@@ -113,6 +113,8 @@ When added, developmental staging will include (or export to) a roadmap.
 
 A dedicated Issues Log is a long-term goal for when IO has more contributors and creative attention; however, the Task Tracker and Work Log (see below) include Issues.
 
+_**NOTE: Should we ask for all CC-related Issues to be submitted in Baserow, via a clear scope of mission (i.e. only indicate the issues which you need help with??)**_
+
 ### Task Tracker and Work Log
 
 [IO Task Tracker and Work Log](https://docs.google.com/document/d/1Z1-M0SbXdtZdc4P-GIW3pDV0Hj6n4o0ScvXJgP74idw/edit?usp=sharing)
@@ -139,15 +141,15 @@ _(if any, do define what constitutional document means)_
 
 ### Directory
 
-_(self-linking to the main page of the Gitbook collection) (and say what a directory is)_
+A directory is a [map](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/map.md) which [_provides_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/provide.md) __ [_directions_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/direct.md) for [_accessing_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/transport.md) __ [_project-_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/project.md)[_related_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md) __ [_resources_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md) _and/or_ [_agents_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md).
+
+[Inclusive Organizing Patterns and Systems](https://docs.google.com/drawings/d/1-WFMRYdueSBba1atcohX0G585zj-gBNlBvZQBqnEmEs/edit?usp=sharing)
 
 _**integrate CCF as needed here**_
 
 ### Repository
 
-[Inclusive Organizing Systems](https://drive.google.com/drive/folders/1ch20F77Yl00RpX5-DOZvYcR6RiRX1BSq?usp=sharing)
-
-\
+[IOPS](https://github.com/gcassel/IOPS)\
 
 
 ^ only the main IO documents; most modules are indirectly linked
