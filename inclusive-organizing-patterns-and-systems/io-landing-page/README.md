@@ -139,7 +139,8 @@ _**^ need to help projects to understand when to submit Issues, and also explici
 
 ### Articles&#x20;
 
-_P2P Networking Medium blog part 1 & 2 , etc._
+* [Developing P2P Networking and Nonlinear Dialogue: Part One](https://gregcassel-21265.medium.com/developing-p2p-networking-and-nonlinear-dialogue-part-one-b1a38fd0c0b6)
+* [Developing P2P Networking and Nonlinear Dialogue: Part Two](https://gregcassel-21265.medium.com/developing-p2p-networking-and-nonlinear-dialogue-part-two-887698b6b650)
 
 ### White papers
 
