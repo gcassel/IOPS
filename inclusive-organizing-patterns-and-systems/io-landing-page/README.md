@@ -193,7 +193,7 @@ email (should be a new dedicated address) should be added.  TG questionable at b
 
 ### Developer Portal
 
-n/a, I don't think, because there's no current intention for IO to directly develop any software
+n/a, IMO, because there's no current intention for IO to directly develop any software
 
 ## Financial Support (merged into “Get Involved"
 
