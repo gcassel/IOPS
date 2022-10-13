@@ -90,6 +90,12 @@ _People link distributively-hosted collective media resources to intercollective
 
 ## Project Development
 
+### Project Policies
+
+_(if any, do define what constitutional document means)_
+
+_For IO, the goal is to create_&#x20;
+
 ### Projects Needs / Bounties
 
 The author is seeking co-authors of all modules, at a very low level of commitment, to directly approve any officially co-signed/ multisignature editions. Also interested in co-stewardship of specific modules and/or IO (or a version of it) itself, although this would be a much bigger commitment.
@@ -135,11 +141,7 @@ _does P2P Digital Networking fit here? (currently prototyping a_ [_revised, shor
 
 _This is closely related to my designation of “org map” in MOR_
 
-### Project Policies
 
-_(if any, do define what constitutional document means)_
-
-_For IO, the goal is to create_&#x20;
 
 ### _Budget (Placeholder)  (flesh this out)_
 
