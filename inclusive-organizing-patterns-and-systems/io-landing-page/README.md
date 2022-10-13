@@ -115,6 +115,8 @@ A dedicated Issues Log is a long-term goal for when IO has more contributors and
 
 _**NOTE: Should we ask for all CC-related Issues to be submitted in Baserow, via a clear scope of mission (i.e. only indicate the issues which you need help with??)**_
 
+_**^ need to help projects to understand when to submit Issues, and also explicitly empower them to self-organize internal issues.**_
+
 ### Task Tracker and Work Log
 
 [IO Task Tracker and Work Log](https://docs.google.com/document/d/1Z1-M0SbXdtZdc4P-GIW3pDV0Hj6n4o0ScvXJgP74idw/edit?usp=sharing)
