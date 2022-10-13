@@ -135,9 +135,11 @@ _does P2P Digital Networking fit here? (currently prototyping a_ [_revised, shor
 
 _This is closely related to my designation of “org map” in MOR_
 
-### Constitutional Documents
+### Project Policies
 
 _(if any, do define what constitutional document means)_
+
+_For IO, the goal is to create_&#x20;
 
 ### _Budget (Placeholder)  (flesh this out)_
 
