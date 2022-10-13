@@ -90,11 +90,13 @@ _People link distributively-hosted collective media resources to intercollective
 
 ## Project Development
 
+Description: This section serves the purpose of \_\_\_\_\_\_.
+
 ### Project Policies
 
-_(if any, do define what constitutional document means)_
+_Description: This section should state or link any policy which determines how the project is governed or otherwise developed._
 
-_For IO, the goal is to create_&#x20;
+IO is currently a solo project, but will be developed as a cooperative according to any decision-making policies and other policies directly consented to by additional teammates.
 
 ### Projects Needs / Bounties
 
