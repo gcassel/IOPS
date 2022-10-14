@@ -144,6 +144,8 @@ Task and time tracking have been somewhat more consistent since November 2021.
 
 ## Additional Media Resources
 
+_Please link additional media resources which are officially associated with the project.  This should ideally include all public project media resources, and may include any private resources which you want to share in our network._
+
 ### Articles
 
 * [Developing P2P Networking and Nonlinear Dialogue: Part One](https://gregcassel-21265.medium.com/developing-p2p-networking-and-nonlinear-dialogue-part-one-b1a38fd0c0b6)
@@ -169,7 +171,7 @@ _**integrate CCF as needed here**_
 
 ### Repository
 
-[IOPS](https://github.com/gcassel/IOPS)\\
+[IOPS](https://github.com/gcassel/IOPS)
 
 ^ only the main IO documents; most modules are indirectly linked
 
