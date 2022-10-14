@@ -8,13 +8,15 @@ description: This is an introductory landing page for the placement of IO in oth
 
 ### Mission
 
-_(Describe the_ [_primary_](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/base.md) __ [_goal_](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/goal.md) _which_ [_defines_](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/define.md) _your_ [_project_](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/project.md)_. Mission should be defined as a verb or action, in which the project either maintains or changes one or more resources of interest to the project stewards and others.  Mission may be perceived as vision, purpose, intent or goal.)_
+_What is the_ [_primary_](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/base.md) __ [_goal_](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/goal.md) _which_ [_defines_](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/define.md) _your_ [_project_](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/project.md)_?  Mission should be identifiable as action in which the project either maintains or changes one or more resources of interest to the project stewards and others.  Mission may be perceived as vision, purpose, intent or goal.)_
 
 _\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
 _IO's Mission:_ To provide templates, guidelines and standard operating procedures (or recipes) for _inclusively, methodically and scalably_ developing all types of _projects, collectives and networks_, including distributed computing networks.
 
 ### Storyline/ how it connects to nature
+
+_**(Should we rename this as Vision? )** Tell us a story about the world in which your project has successfully performed or completed its mission._
 
 The central concept of IO is that we can develop inclusive organizing activities and structures consistently and efficiently by methodically developing IO’s four _levels of design_: _inclusive language, activity, governance,_ and _distributive networking_. Shared languages are seen as the basis of all inclusive activities. Inclusive activities-- that is, _inclusive discussion, design and decision--_ are seen as the source of inclusive governance processes, which can lead to distributive networking which intentionally distributes governance authority, as well as other shareable resources. Projects can develop policies and policy design tools at any of these four levels in any order. This author believes that we will need to develop awareness and support of the full “four level stack” to develop inclusively at the unlimited scales and complexities which we will ultimately need in order to harness humanity’s collective wisdom potentials, and to sustainably survive and thrive as a species in reciprocal relations with others. However, IO is named in the plural (“Systems”) to emphasize its pluralism, and the diverse potential pathways to formal developments within the general community (and, when applicable, technical networks) of each project.
 
@@ -88,37 +90,33 @@ _People link distributively-hosted collective media resources to intercollective
 
 ### Overview??
 
-## Project Development
+## Project Development _**(or, Governance Resources?)**_
 
-Description: This section serves the purpose of \_\_\_\_\_\_.
+_Use the subsections below to provide general information on project development, governance and planning._
 
-### Project Policies
+### Policies
 
-_Description: This section should state or link any policy which determines how the project is governed or otherwise developed._
+_State or link any official policies which determine how the project is governed or otherwise developed._
 
 _\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
 IO is currently a solo project, but will be developed as a cooperative according to any decision-making policies and other policies directly consented to by additional teammates.
 
-### Projects Needs / Bounties
-
-The author is seeking co-authors of all modules, at a very low level of commitment, to directly approve any officially co-signed/ multisignature editions. Also interested in co-stewardship of specific modules and/or IO (or a version of it) itself, although this would be a much bigger commitment.
-
-### Current Value Invested
-
-The author hasn’t used time tracking for most of IO’s development. Including all of the modules which were begun in 2015, the irregular IO work constitutes a mean average of about 20-40 hours of direct work per week for 86 months, or 1720- 3440 hours so far.
-
-Task and time tracking have been somewhat more consistent since November 2021.
-
 ### Timeline/ Roadmap
 
-[**Roadmap Link**](https://docs.google.com/document/d/1Z1-M0SbXdtZdc4P-GIW3pDV0Hj6n4o0ScvXJgP74idw/edit#heading=h.yoobsoevanqb)\\
+_Provide or link the timeline or roadmap for reaching project development milestones._
 
-### Developmental Staging
+_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
-When added, developmental staging will include (or export to) a roadmap.
+[**Roadmap Link**](https://docs.google.com/document/d/1Z1-M0SbXdtZdc4P-GIW3pDV0Hj6n4o0ScvXJgP74idw/edit#heading=h.yoobsoevanqb)
 
-### Issues Log
+### Project and Task Management
+
+_Include or link whatever system(s) you use for managing the project, issues and tasks._
+
+_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
+
+[IO Task Tracker and Work Log](https://docs.google.com/document/d/1Z1-M0SbXdtZdc4P-GIW3pDV0Hj6n4o0ScvXJgP74idw/edit?usp=sharing)
 
 A dedicated Issues Log is a long-term goal for when IO has more contributors and creative attention; however, the Task Tracker and Work Log (see below) include Issues.
 
@@ -126,9 +124,23 @@ _**NOTE: Should we ask for all CC-related Issues to be submitted in Baserow, via
 
 _**^ need to help projects to understand when to submit Issues, and also explicitly empower them to self-organize internal issues.**_
 
-### Task Tracker and Work Log
+### Projects Needs / Bounties
 
-[IO Task Tracker and Work Log](https://docs.google.com/document/d/1Z1-M0SbXdtZdc4P-GIW3pDV0Hj6n4o0ScvXJgP74idw/edit?usp=sharing)
+_Describe or link any functions or tasks which your project needs external help in performing, or (if applicable) link your bounty system._ &#x20;
+
+_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
+
+The author is seeking co-authors of all modules, at a very low level of commitment, to directly approve any officially co-signed/ multisignature editions. Also interested in co-stewardship of specific modules and/or IO (or a version of it) itself, although this would be a much bigger commitment.
+
+### Current Value Invested
+
+_Describe or link the resources already invested in the project, including estimated person-hours of labor._
+
+_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
+
+The author hasn’t used time tracking for most of IO’s development. Including all of the modules which were begun in 2015, the irregular IO work constitutes a mean average of about 20-40 hours of direct work per week for 86 months, or 1720- 3440 hours so far.
+
+Task and time tracking have been somewhat more consistent since November 2021.
 
 ## Additional Media Resources
 
