@@ -8,7 +8,7 @@ description: This is an introductory landing page for the placement of IO in oth
 
 ### Mission
 
-_Description:_ A _mission_ is _the_ [_primary_](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/base.md) [_goal_](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/goal.md) _which_ [_defines_](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/define.md) _a_ [_specific_](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/specific.md) [_project_](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/project.md) _or_ [_collective_](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/collective.md). (Mission should be defined as a verb or action, in which the project either supports, develops or destroys an existing resource.) (Mission may be perceived as a vision/ purpose / intent/goal.)
+_(Describe the_ [_primary_](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/base.md) __ [_goal_](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/goal.md) _which_ [_defines_](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/define.md) _your_ [_project_](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/project.md)_. Mission should be defined as a verb or action, in which the project either maintains or changes one or more resources of interest to the project stewards and others.  Mission may be perceived as vision, purpose, intent or goal.)_
 
 _\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
