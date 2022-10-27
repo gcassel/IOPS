@@ -173,6 +173,8 @@ _List and link key publications about your Project._
 
 A directory is a [map](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/map.md) which [_provides_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/provide.md) \_\_ [_directions_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/direct.md) for [_accessing_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/transport.md) \_\_ [_project-_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/project.md)[_related_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md) \_\_ [_resources_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md) _and/or_ [_agents_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md).
 
+(CONSTRUCTION NOTE:  provide guidelines for turning "project maps" into directories
+
 [Inclusive Organizing Patterns and Systems](https://docs.google.com/drawings/d/1-WFMRYdueSBba1atcohX0G585zj-gBNlBvZQBqnEmEs/edit?usp=sharing)
 
 _**integrate CCF as needed here**_
