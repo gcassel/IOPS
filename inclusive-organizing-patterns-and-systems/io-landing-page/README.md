@@ -226,6 +226,10 @@ _not a separate database, but should be an ID/tag in other mapping/database syst
 
 ### Wiki
 
+#### Definition
+
+A _wiki_ is _a_ [_network_](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/network.md) _of_ [_digital_](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/digital.md) __ [_documents_](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/document.md) _which are_ [_collaboratively_](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/collaborate.md) __ [_authored_](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/author.md) _and_ [_edited_](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/edit.md), either within a [project](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/project.md) or by a [network](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/network.md) of [sovereign](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/sovereign.md) [agents](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/agent.md).
+
 Usually a long-term goal for major projects with many contributors. Eventually they can marry in a unified conceptual field. _-- probably not for a 1-3 years (if at all) for IO specifically_
 
 ## Get Involved (Pathways to Participation)
