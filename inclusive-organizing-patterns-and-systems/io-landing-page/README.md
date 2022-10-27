@@ -53,6 +53,8 @@ Compared to many projects which are centrally developed in a unitary fashion, IO
 
 ### Product(Goods/ Services)
 
+_What goods and services, if any, is your product offering or developing for access through one or more commons or marketplaces?_
+
 IO consists of several dozen open source “developmental framework” modules including recipes and templates for developing projects and networks. These modules are being moved into this Gitbook collection. The modules can be used separately and/or together. Some of them are closely linked to each other-- even requiring cross-reference in some cases. Others are only indirectly related, but can serve one or more of IO’s four levels of design in the same project or network.
 
 #### Use Cases
@@ -144,22 +146,26 @@ The author hasn’t used time tracking for most of IO’s development. Including
 
 Task and time tracking have been somewhat more consistent since November 2021.
 
-## Additional Media Resources
+## Additional Media&#x20;
 
 _Please link additional media resources which are officially associated with the project.  This should ideally include all public project media resources, and may include any private resources which you want to share in our network._
 
-### Articles
-
-* [Developing P2P Networking and Nonlinear Dialogue: Part One](https://gregcassel-21265.medium.com/developing-p2p-networking-and-nonlinear-dialogue-part-one-b1a38fd0c0b6)
-* [Developing P2P Networking and Nonlinear Dialogue: Part Two](https://gregcassel-21265.medium.com/developing-p2p-networking-and-nonlinear-dialogue-part-two-887698b6b650)
-
 ### White papers
 
-_does P2P Digital Networking fit here? (currently prototyping a_ [_revised, shortened version_](https://docs.google.com/document/d/1LQ19iY0fBr9Ri69sXDlMW1Y59HCwTFum-mRsJFowIG4/edit?usp=sharing) _which is integrated with other IO modules)_
+_List and link your Project's white paper(s), if any._
+
+does P2P Digital Networking fit here? (currently prototyping a [revised, shortened version](https://docs.google.com/document/d/1LQ19iY0fBr9Ri69sXDlMW1Y59HCwTFum-mRsJFowIG4/edit?usp=sharing) which is integrated with other IO modules)
 
 ### Diagrams
 
 _This is closely related to my designation of “org map” in MOR_
+
+### _Publications_
+
+_List and link key publications about your Project._
+
+* [Developing P2P Networking and Nonlinear Dialogue: Part One](https://gregcassel-21265.medium.com/developing-p2p-networking-and-nonlinear-dialogue-part-one-b1a38fd0c0b6)
+* [Developing P2P Networking and Nonlinear Dialogue: Part Two](https://gregcassel-21265.medium.com/developing-p2p-networking-and-nonlinear-dialogue-part-two-887698b6b650)
 
 ### _Budget (Placeholder) (flesh this out)_
 
