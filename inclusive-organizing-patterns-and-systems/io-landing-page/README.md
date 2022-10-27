@@ -197,6 +197,10 @@ _A repository_ is a [_specific_](https://github.com/gcassel/Modular-Organization
 
 ^ only the main IO documents; most modules are indirectly linked
 
+#### Examples
+
+Hard Drive on a personal computer, Google Drive or other cloud storage drive
+
 ### Database
 
 _A database_ is a [_network_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/network.md) _of_ [_data_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/data.md) _in a_ [_specific_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) __ [_format_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/format.md).
