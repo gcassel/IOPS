@@ -197,9 +197,16 @@ _A repository_ is a [_specific_](https://github.com/gcassel/Modular-Organization
 
 ^ only the main IO documents; most modules are indirectly linked
 
+#### Explanatory Notes
+
 #### Examples
 
-Hard Drive on a personal computer, Google Drive or other cloud storage drive
+a physical storage cabinet, such as the cabinet where you keep your canned goods
+
+any digital media storage drive, such as:&#x20;
+
+* Hard Drive on a personal computer
+* Google Drive or other cloud storage drive
 
 ### Database
 
