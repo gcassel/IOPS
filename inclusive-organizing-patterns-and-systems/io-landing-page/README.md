@@ -22,6 +22,8 @@ The central concept of IO is that we can develop inclusive organizing activities
 
 ### Problem / Solution
 
+_Can you describe your Project's Mission as the story of a key Problem and its Solution?_
+
 Problem: The core problem perceived here is centralized bureaucracies which gather political and/or economic power, and externalize the costs of their activities to ecosystems, workers and consumers. \\
 
 The solution: IO prioritizes low-tech practices which don’t depend on any highly specialized software or tech platforms, but can be directly integrated with many platforms and systems. \\
