@@ -199,6 +199,8 @@ _A repository_ is a [_specific_](https://github.com/gcassel/Modular-Organization
 
 ### Database
 
+_A database_ is a [_network_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/network.md) _of_ [_data_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/data.md) _in a_ [_specific_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) __ [_format_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/format.md).
+
 _not a separate database, but should be an ID/tag in other mapping/database systems_
 
 ### Wiki
