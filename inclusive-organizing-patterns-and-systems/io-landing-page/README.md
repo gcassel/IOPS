@@ -250,17 +250,21 @@ email (should be a new dedicated address) should be added. TG questionable at be
 
 n/a, IMO, because there's no current intention for IO to directly develop any software
 
-## Financial Support (merged into “Get Involved"
-
 ### Donating
+
+TBD
 
 ### Co-Invest
 
+TBD
+
 ### Crowdsourcing
+
+TBD
 
 ### Investment Club
 
-\\
+TBD
 
 ## =========Reference=========
 
