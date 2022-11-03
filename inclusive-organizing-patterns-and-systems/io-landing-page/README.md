@@ -173,15 +173,12 @@ _List and link key publications about your Project._
 
 [Inclusive Organizing Patterns and Systems](https://docs.google.com/drawings/d/1-WFMRYdueSBba1atcohX0G585zj-gBNlBvZQBqnEmEs/edit?usp=sharing)
 
-**(CONSTRUCTION NOTES:** &#x20;
+**CONSTRUCTION NOTES:** &#x20;
 
 1. **provide guidelines for turning "project maps" into directories.**
 2. _Explanatory Notes:_ A directory is a map which _provides_ _directions_ for _accessing_ _project-related_ _resources_ _and/or_ _agents_.  **(See** [**directory**](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/directory.md) **on Github.**
 3. _**Add examples including Dewey Decimal System for an ID system based purely on numbering, and 2-3 other examples including digital directories**_
-
-
-
-_**integrate CCF as needed here**_
+4. _**integrate CCF as needed here**_
 
 ### Repository
 
