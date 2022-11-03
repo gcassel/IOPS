@@ -171,21 +171,15 @@ _List and link key publications about your Project._
 
 ### Directory
 
-A directory is a [map](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/map.md) which [_provides_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/provide.md) [_directions_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/direct.md) for [_accessing_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/transport.md) [_project-_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/project.md)[_related_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md) [_resources_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md) _and/or_ [_agents_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md).
-
-**(CONSTRUCTION NOTE:  provide guidelines for turning "project maps" into directories)**
-
-#### Explanatory Notes
-
-[Agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) [developed](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/develop.md) directories to _provide directions for_ [_physical_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/physical.md) _transportation_, such as moving to a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) room in a building. However, directories are now often associated with navigating [digital](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/digital.md) [resources](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md).
-
-[Agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) often [develop](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/develop.md) directories by [creating](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/create.md) and [linking](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/link.md) multiple [_storage_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/store.md) __ [_locations_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/location.md) upon a specific [_storage_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/store.md) __ [_device_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/tool.md) or _server_.  However, it's [possible](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/potential.md) to [distribute](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/distribute.md) the [hosting](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/host.md) and [updating](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/update.md) of [_community_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/community.md) __ [_media_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/media.md) __ [_items_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/item.md) across many devices and servers which are [governed](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/govern.md) by different agents. &#x20;
-
-Directories often link _media items_ which have [_unique_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/unique.md) __ [_addressable_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/address.md) __ [_identities_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/identity.md).  However, [organization](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/organization.md) by unique identities can be supplemented, or even replaced, by the development of [_compound_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/compound.md) __ [_descriptions_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/describe.md).
-
-_**Add examples including Dewey Decimal System for an ID system based purely on numbering, and 2-3 other examples including digital directories**_
-
 [Inclusive Organizing Patterns and Systems](https://docs.google.com/drawings/d/1-WFMRYdueSBba1atcohX0G585zj-gBNlBvZQBqnEmEs/edit?usp=sharing)
+
+**(CONSTRUCTION NOTES:** &#x20;
+
+1. **provide guidelines for turning "project maps" into directories.**
+2. _Explanatory Notes:_ A directory is a map which _provides_ _directions_ for _accessing_ _project-related_ _resources_ _and/or_ _agents_.  **(See** [**directory**](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/directory.md) **on Github.**
+3. _**Add examples including Dewey Decimal System for an ID system based purely on numbering, and 2-3 other examples including digital directories**_
+
+
 
 _**integrate CCF as needed here**_
 
